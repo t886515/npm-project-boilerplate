@@ -1,0 +1,28 @@
+{
+  "name": "npm-project-boilerplate",
+  "version": "1.0.0",
+  "description": "webpack template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/t886515/npm-project-boilerplate.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "Lina Yang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/t886515/npm-project-boilerplate/issues"
+  },
+  "homepage": "https://github.com/t886515/npm-project-boilerplate#readme",
+  "dependencies": {
+    "react": "^16.3.2"
+  },
+  "devDependencies": {
+    "webpack": "^4.6.0"
+  }
+}
